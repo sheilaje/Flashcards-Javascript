@@ -1,7 +1,6 @@
 #clickJS{
  color: red;
 }
-
 #showJS{
   display: none;
 }
@@ -9,7 +8,118 @@
 #clickOperators{
  color: red;
 }
-
 #showOperators{
+  display: none;
+}
+
+#clickvariable{
+ color: red;
+}
+#showvariable{
+  display: none;
+}
+
+#clickvc{
+ color: red;
+}
+#showvc{
+  display: none;
+}
+
+#clickfunctions{
+ color: red;
+}
+#showfunctions{
+  display: none;
+}
+
+#clickmethod{
+ color: red;
+}
+#showmethod{
+  display: none;
+}
+
+#clickarguments{
+ color: red;
+}
+#showarguments{
+  display: none;
+}
+
+#clickparameters{
+ color: red;
+}
+#showparameters{
+  display: none;
+}
+
+#clickreturn{
+ color: red;
+}
+#showreturn{
+  display: none;
+}
+
+#clickchainingmethods{
+ color: red;
+}
+#showchainingmethods{
+  display: none;
+}
+
+#clickstrings{
+ color: red;
+}
+#showstrings{
+  display: none;
+}
+
+#clickbooleans{
+ color: red;
+}
+#showbooleans{
+  display: none;
+}
+
+#clickundefined{
+ color: red;
+}
+#showundefined{
+  display: none;
+}
+
+#clickNaN{
+ color: red;
+}
+#showNaN{
+  display: none;
+}
+
+#clickescape{
+ color: red;
+}
+#showescape{
+  display: none;
+}
+
+#clickalert{
+ color: red;
+}
+#showalert{
+  display: none;
+}
+
+#clickcomments{
+ color: red;
+}
+#showcomments{
+  display: none;
+}
+
+#clickjquery{
+ color: red;
+}
+#showjquery{
   display: none;
 }
